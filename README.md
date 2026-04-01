@@ -61,6 +61,9 @@ Working Student Job Matcher is a personal productivity tool built to automate th
 | UI Design | Figma MCP |
 | Hosting (Frontend) | Vercel |
 | Hosting (Backend) | Railway |
+| Aufgaben-/Projekttracking | Jira |
+| Dokumentation | Confluence |
+| Datenvisualisierung | PowerBI |
 
 ---
 
